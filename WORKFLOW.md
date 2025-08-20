@@ -59,3 +59,30 @@ Branches principais:
 
 Adotaremos o padrão **semântico**, com a sintaxe:
 
+## ------------------- Escopo ------------------- 
+
+
+### Exemplos do projeto
+- `feat(servicos): adicionar cards responsivos de serviços`
+- `fix(portfolio): corrigir grid quebrado no mobile`
+- `style(depoimentos): ajustar espaçamento entre depoimentos`
+
+---
+
+## Tipos de Commits
+
+### Tipos comuns
+- **feat** → Nova funcionalidade ou seção.  
+- **fix** → Correção de bug.  
+- **docs** → Documentação (README, comentários, wiki).  
+- **style** → Ajustes visuais (CSS, fontes, espaçamentos).  
+- **refactor** → Alterações internas sem mudar comportamento.  
+- **test** → Adição/modificação de testes.  
+
+### Tipos criados para este projeto
+- **layout** → Alterações estruturais no layout da página (grid, containers, seções gerais).  
+- **content** → Mudanças no conteúdo textual/visual (ex.: trocar textos de serviços, imagens do portfólio, novos depoimentos).  
+- **seo** → Alterações relacionadas a SEO (metatags, alt em imagens, otimização de títulos).  
+
+---
+

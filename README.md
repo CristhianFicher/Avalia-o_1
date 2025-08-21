@@ -32,3 +32,8 @@ O workflow do time está documentado no arquivo [WORKFLOW.md](./WORKFLOW.md).
 - Cristhian Ficher
 - Leonardo Atilio Rocha
 - Ghustavo Cardoso da Silveira
+
+## Como revisar Mudanças
+
+- git fetch origin
+- git diff main
